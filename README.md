@@ -7,10 +7,12 @@ This is the place where I opensource stuff and mb working things :rofl:
 - 👨‍💻 &nbsp;Read more about my projects at [shawty.fun](shawty.fun)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Games (GamerTag: [VARES or Lime])
 
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 LOADING....
 <!-- BLOG-POST-LIST:END -->
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -19,6 +21,7 @@ LOADING....
 <a href="https://t.me/im_vares" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/tot.nekit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
+  
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Vares&langs_count=8&layout=compact&theme=radical" />
